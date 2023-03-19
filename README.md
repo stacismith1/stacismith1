@@ -1,4 +1,4 @@
-<h1>Hi, I'm Staci <br/><a href="https://github.com/stacismith1">Systems Administrator</a>, <a href="https://www.linkedin.com/in/staciofzcs/">Cybersecurity Professional</a>,
+<h1>Hi, I'm Staci <br/><a href="https://github.com/stacismith1">Systems Administrator</a>, <a href="https://www.linkedin.com/in/staciofzcs/">Cybersecurity Professional</a>
 
 <h2>👨🏿‍💻 Cyberecurity Projects:</h2>
 
