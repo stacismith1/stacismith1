@@ -2,8 +2,8 @@
 
 <h2>👨🏿‍💻 Cyberecurity Projects:</h2>
 
-- <b>[Secure Active Direcory Lab](https://github.com/stacismith1/Active-Directory-Lab)</b>
-  - Praciting Planning and Deploying Hardened AD Environment
+- <b>[Secure Active Directory Lab](https://github.com/stacismith1/Active-Directory-Lab)</b>
+  - Practicing Planning and Deploying Hardened AD Environment
 - <b>[Azure Sentinel SIEM Lab](https://github.com/stacismith1/Sentinel-Lab)</b>
   - SIEM Monitoring & Drill down
   - Cloud VM Orchestration
