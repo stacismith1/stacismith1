@@ -12,7 +12,7 @@
   - Network Security Groups
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/stacismith1/Sentinel-Lab)
-  - [File Integrity Monitor](https://github.com/stacismith1/PowerShell-Integrity-FIM)
+  - [File Integrity Monitor](https://github.com/stacismith1/File-Integrity-Monitor)
 - <b>[Vulnerability Management Lab](https://github.com/stacismith1/Vulnerability-Management-Lab)</b>
   - Nessus Essentials, OSSINT
   - VM Orchestration
