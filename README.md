@@ -16,7 +16,7 @@
 - <b>[Vulnerability Management Lab](https://github.com/stacismith1/Vulnerability-Management-Lab)</b>
   - Nessus Essentials, OSSINT
   - VM Orchestration
- - <b>[REST API](https://github.com/stacismith1/REST-API-Development)</b>
+- <b>[REST API](https://github.com/stacismith1/REST-API-Development)</b>
   - Node.js Development
   - WebApp Pentesting
   - VM Orchestration
