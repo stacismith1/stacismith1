@@ -1,6 +1,6 @@
 <h1>Hi, I'm Staci <br/><a href="https://github.com/stacismith1">Systems Administrator</a>, <a href="https://www.linkedin.com/in/staciofzcs/">Cybersecurity Professional</a>
 
-<h2>👨🏿‍💻 Cyberecurity Projects:</h2>
+<h2>👨🏿‍💻 Cybersecurity Projects:</h2>
 
 - <b>[Secure Active Directory Lab](https://github.com/stacismith1/Active-Directory-Lab)</b>
   - Practicing Planning and Deploying Hardened AD Environment
