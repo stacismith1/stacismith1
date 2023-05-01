@@ -1,4 +1,6 @@
-<h1>Hi, I'm Staci <br/><a href="https://github.com/stacismith1">Network Systems Administrator</a>, <a href="https://www.linkedin.com/in/staciofzcs/">Cybersecurity Professional</a>
+<h1>Hi, I'm Staci <br/><a href="https://github.com/stacismith1">Network Systems Administrator</a>, <a href="https://www.linkedin.com/in/staciofzcs/">Cybersecurity Professional</a></h1>
+              
+I enjoy helping organizations mature their IT systems, exploring new threat intelligence, reverse-engineering malware, and participating in CTF events.
 
 <h2>👨🏿‍💻 Cybersecurity Projects:</h2>
 
